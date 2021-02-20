@@ -1,4 +1,4 @@
-# Raspberry-pi project
+# Bio-refinery project based on Raspberry pi
 The repository contains the snapshots of the project where we are using Raspberry-pi 3b+ model.
 
 workflow includes:
